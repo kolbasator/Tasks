@@ -1,140 +1,285 @@
 ﻿using System;
-
+using System.Collections.Generic;
+using System.Linq;
 namespace Доска_для_крестиков_ноликов
 {
+    class Player
+    {
+        public string name;
+        public int wins;
+        public int games;
+        public Player(string name,int wins,int games)
+        {
+            this.name = name;
+            this.wins = wins;
+            this.games = games;
+        }
+        public void Info()
+        {
+            Console.WriteLine($"{this.name} {this.wins}/{this.games}");
+        }
+    }
     class Program
     {
         static string[] pos = new string[10] { " ", " ", " ", " ", " ", " ", " ", " ", " ", " " };
+        static List<Player> players = new List<Player>();
         static void Main(string[] args)
         {
+
+            players.Add(new Player("Musyaka",99999,1));
             bool i = true;
             while (i == true)
             {
+                for(int u = 0; u < pos.Length; u++)
+                {
+                    pos[u] = " ";
+                }
                 Console.WriteLine(" Новая игра -1");
                 Console.WriteLine(" Об авторе –2");
                 Console.WriteLine(" Выход-3");
                 string move = Console.ReadLine();
                 bool i2 = true;
+               
+                    switch (move)
+                    {
+                        case "1":
+                        int games = 0;
+                        int games2 = 0;
+                        games += 1;
+                        games2 += 1;
+                        int wins = 0;
+                        int wins2 = 0;
+                            Console.Clear();
+                            Console.WriteLine("New Game");
+                            string whose_move = "X";
+                            Console.WriteLine("Welcome to tic-tac-toe!");
+                        Console.Write("X name:");
+                        string name1 = Console.ReadLine();
+                        Console.Write("O name:");
+                        string name2 = Console.ReadLine();
 
-                switch (move)
-                {
-                    case "1":
-                        Console.Clear();
-                        Console.WriteLine("New Game");
+                        DrawBoard();
+                            Console.WriteLine($"{whose_move} move:");
+                            Move(pos, whose_move);
+                            i2 = Win();
+                           if (i2 == false)
+                        {
+                            foreach (Player n in players.ToList())
+                                if (n.name == name1)
+                                {
+                                    Checker(name1);
 
-                        string whose_move = "X";
-                        Console.WriteLine("Welcome to tic-tac-toe!");
-                        DrawBoard();
-                        Console.WriteLine($"{whose_move} move:");
-                        Move(pos, whose_move);
-                        i2 = Win();
-                        if (i2 == false)
-                        {
+                                }
+                                else
+                                {
+                                    players.Add(new Player(name1, wins, games));
+                                }
                             continue;
-                        }
-                        whose_move = "O";
-                        DrawBoard();
-                        Console.WriteLine($"{whose_move} move:");
-                        Move(pos, whose_move);
-                        i2 = Win();
+                           }
+                            whose_move = "O";
+                            DrawBoard();
+                            Console.WriteLine($"{whose_move} move:");
+                            Move(pos, whose_move);
+                            i2 = Win();
                         if (i2 == false)
                         {
-                            continue;
-                        }
-                        whose_move = "X";
-                        DrawBoard();
-                        Console.WriteLine($"{whose_move} move:");
-                        Move(pos, whose_move);
-                        i2 = Win();
-                        if (i2 == false)
-                        {
-                            continue;
-                        }
-                        whose_move = "O";
-                        DrawBoard();
-                        Console.WriteLine($"{whose_move} move:");
-                        Move(pos, whose_move);
-                        i2 = Win();
-                        if (i2 == false)
-                        {
+                            foreach (Player n in players.ToList())
+                                if (n.name == name2)
+                                {
+                                    Checker(name1);
+
+                                }
+                                else
+                                {
+                                    players.Add(new Player(name2, wins2, games2));
+                                }
+
                             continue;
                         }
                         whose_move = "X";
-                        DrawBoard();
-                        Console.WriteLine($"{whose_move} move:");
-                        Move(pos, whose_move);
-                        i2 = Win();
+                            DrawBoard();
+                            Console.WriteLine($"{whose_move} move:");
+                            Move(pos, whose_move);
+                            i2 = Win();
                         if (i2 == false)
                         {
+                            foreach (Player n in players.ToList())
+                                if (n.name == name1)
+                                {
+                                    Checker(name1);
+
+                                }
+                                else
+                                {
+                                    players.Add(new Player(name1, wins, games));
+                                }
+
                             continue;
                         }
                         whose_move = "O";
-                        DrawBoard();
-                        Console.WriteLine($"{whose_move} move:");
-                        Move(pos, whose_move);
-                        i2 = Win();
+                            DrawBoard();
+                            Console.WriteLine($"{whose_move} move:");
+                            Move(pos, whose_move);
+                            i2 = Win();
                         if (i2 == false)
                         {
+                            foreach (Player n in players.ToList())
+                                if (n.name == name2)
+                                {
+                                    Checker(name1);
+
+                                }
+                                else
+                                {
+                                    players.Add(new Player(name2, wins2, games2));
+                                }
                             continue;
                         }
                         whose_move = "X";
-                        DrawBoard();
-                        Console.WriteLine($"{whose_move} move:");
-                        Move(pos, whose_move);
-                        i2 = Win();
+                            DrawBoard();
+                            Console.WriteLine($"{whose_move} move:");
+                            Move(pos, whose_move);
+                            i2 = Win();
                         if (i2 == false)
                         {
+                            foreach (Player n in players.ToList())
+                                if (n.name == name1)
+                                {
+                                    Checker(name1);
+
+                                }
+                                else
+                                {
+                                    players.Add(new Player(name1, wins, games));
+                                }
                             continue;
                         }
                         whose_move = "O";
-                        DrawBoard();
-                        Console.WriteLine($"{whose_move} move:");
-                        Move(pos, whose_move);
-                        i2 = Win();
+                            DrawBoard();
+                            Console.WriteLine($"{whose_move} move:");
+                            Move(pos, whose_move);
+                            i2 = Win();
                         if (i2 == false)
                         {
+                            foreach (Player n in players.ToList())
+                                if (n.name == name1)
+                                {
+                                    Checker(name1);
+
+                                }
+                                else if(true)
+                                {
+                                    players.Add(new Player(name2, wins, games));
+                                }
+
                             continue;
                         }
                         whose_move = "X";
-                        DrawBoard();
-                        Console.WriteLine($"{whose_move} move:");
-                        Move(pos, whose_move);
-                        i2 = Win();
+                            DrawBoard();
+                            Console.WriteLine($"{whose_move} move:");
+                            Move(pos, whose_move);
+                            i2 = Win();
                         if (i2 == false)
                         {
+                            foreach (Player n in players.ToList())
+                                if (n.name == name1)
+                                {
+                                    Checker(name1);
+
+                                }
+                                else
+                                {
+                                    players.Add(new Player(name1, wins, games));
+                                }
+                            continue;
+                        }
+                        whose_move = "O";
+                            DrawBoard();
+                            Console.WriteLine($"{whose_move} move:");
+                            Move(pos, whose_move);
+                            i2 = Win();
+                        if (i2 == false)
+                        {
+                            foreach (Player n in players.ToList())
+                                if (n.name == name2)
+                                {
+                                    Checker(name1);
+
+                                }
+                                else
+                                {
+                                    players.Add(new Player(name2, wins2, games2));
+                                }
+                            continue;
+                        }
+                        whose_move = "X";
+                            DrawBoard();
+                            Console.WriteLine($"{whose_move} move:");
+                            Move(pos, whose_move);
+                            i2 = Win();
+                        if (i2 == false)
+                        {
+                            foreach (Player n in players.ToList())
+                                if (n.name == name1)
+                                {
+                                    Checker(name1);
+
+                                }
+                                else
+                                {
+                                    players.Add(new Player(name1, wins, games));
+                                }
                             continue;
                         }
                         whose_move = "O";
 
-                        Console.WriteLine("Game Over!");
-                        Console.ReadLine();
-                        Console.ReadLine();
+                            Console.WriteLine("Game Over!");
+                            Console.ReadLine();
+                            Console.ReadLine();
+                            Console.ReadLine();
+                            continue;
+                        case "2":
+                            Console.Clear();
+                            Console.WriteLine("Имя-Кирилл\nФамилия-Чеботарев\nВозраст-12 лет\nПитомцы-Кошка Мусяка\nЛюбимое дело -программирование и спорт \nЯзык программирования-С#");
+                            Console.ReadLine();
+                            continue;
+                        case "3":
+                            Console.WriteLine("Вы уверены ? Да/Нет");
+                            string agree = Console.ReadLine();
+                            if (agree == "Нет")
+                            {
+                                Console.Clear();
+                                continue;
+                            }
+                            else
+                            {
+                                Console.Clear();
+                                i = false;
+                            }
+                            break;
+                    case "4":
+                        foreach (Player t in players)
+                            t.Info();
                         Console.ReadLine();
                         continue;
-                    case "2":
-                        Console.Clear();
-                        Console.WriteLine("Имя-Кирилл\nФамилия-Чеботарев\nВозраст-12 лет\nПитомцы-Кошка Мусяка\nЛюбимое дело -программирование и спорт \nЯзык программирования-С#");
-                        Console.ReadLine();
-                        continue;
-                    case "3":
-                        Console.WriteLine("Вы уверены ? Да/Нет");
-                        string agree = Console.ReadLine();
-                        if (agree == "Нет")
-                        {
-                            Console.Clear();
-                            continue;
-                        }
-                        else
-                        {
-                            Console.Clear();
-                            i = false;
-                        }
-                        break;
-
-                }
-
-
+                    }
+                
+               
             }
+           
+        }
+        static void Checker(string name)
+        {
+            foreach(Player n in players)
+                if (n.name == name)
+                {
+                    Player element = n;
+                    int index = players.IndexOf(element);
+                    players[index].wins += 1;
+                    players[index].games += 1;
+                    players[index].Info();
+                }
+                
 
         }
         static bool Win()
@@ -154,10 +299,10 @@ namespace Доска_для_крестиков_ноликов
             }
             return i;
         }
-
-        static bool OWin()
+        
+        static bool OWin() 
         {
-            if (pos[1] == "O" && pos[2] == "O" && pos[3] == "O")
+            if (pos[1] == "O" && pos[2] == "O" && pos[3] == "O") 
             {
                 return true;
             }
