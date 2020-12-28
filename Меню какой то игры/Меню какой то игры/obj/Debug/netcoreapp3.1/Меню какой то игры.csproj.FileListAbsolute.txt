@@ -1,0 +1,13 @@
+C:\Users\777\Desktop\Задания от разумовского\Третьий лвл\Меню какой то игры\Меню какой то игры\bin\Debug\netcoreapp3.1\Меню какой то игры.exe
+C:\Users\777\Desktop\Задания от разумовского\Третьий лвл\Меню какой то игры\Меню какой то игры\bin\Debug\netcoreapp3.1\Меню какой то игры.deps.json
+C:\Users\777\Desktop\Задания от разумовского\Третьий лвл\Меню какой то игры\Меню какой то игры\bin\Debug\netcoreapp3.1\Меню какой то игры.runtimeconfig.json
+C:\Users\777\Desktop\Задания от разумовского\Третьий лвл\Меню какой то игры\Меню какой то игры\bin\Debug\netcoreapp3.1\Меню какой то игры.runtimeconfig.dev.json
+C:\Users\777\Desktop\Задания от разумовского\Третьий лвл\Меню какой то игры\Меню какой то игры\bin\Debug\netcoreapp3.1\Меню какой то игры.dll
+C:\Users\777\Desktop\Задания от разумовского\Третьий лвл\Меню какой то игры\Меню какой то игры\bin\Debug\netcoreapp3.1\Меню какой то игры.pdb
+C:\Users\777\Desktop\Задания от разумовского\Третьий лвл\Меню какой то игры\Меню какой то игры\obj\Debug\netcoreapp3.1\Меню какой то игры.csprojAssemblyReference.cache
+C:\Users\777\Desktop\Задания от разумовского\Третьий лвл\Меню какой то игры\Меню какой то игры\obj\Debug\netcoreapp3.1\Меню какой то игры.AssemblyInfoInputs.cache
+C:\Users\777\Desktop\Задания от разумовского\Третьий лвл\Меню какой то игры\Меню какой то игры\obj\Debug\netcoreapp3.1\Меню какой то игры.AssemblyInfo.cs
+C:\Users\777\Desktop\Задания от разумовского\Третьий лвл\Меню какой то игры\Меню какой то игры\obj\Debug\netcoreapp3.1\Меню какой то игры.csproj.CoreCompileInputs.cache
+C:\Users\777\Desktop\Задания от разумовского\Третьий лвл\Меню какой то игры\Меню какой то игры\obj\Debug\netcoreapp3.1\Меню какой то игры.dll
+C:\Users\777\Desktop\Задания от разумовского\Третьий лвл\Меню какой то игры\Меню какой то игры\obj\Debug\netcoreapp3.1\Меню какой то игры.pdb
+C:\Users\777\Desktop\Задания от разумовского\Третьий лвл\Меню какой то игры\Меню какой то игры\obj\Debug\netcoreapp3.1\Меню какой то игры.genruntimeconfig.cache
