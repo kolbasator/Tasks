@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Вычислялка среднего значения чисел в масиве/1.0.0": {
+        "runtime": {
+          "Вычислялка среднего значения чисел в масиве.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Вычислялка среднего значения чисел в масиве/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

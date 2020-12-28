@@ -15,126 +15,127 @@ namespace Доска_для_крестиков_ноликов
                 Console.WriteLine(" Выход-3");
                 string move = Console.ReadLine();
                 bool i2 = true;
-               
-                    switch (move)
-                    {
-                        case "1":
-                            Console.Clear();
-                            Console.WriteLine("New Game");
-                            string whose_move = "X";
-                            Console.WriteLine("Welcome to tic-tac-toe!");
-                            DrawBoard();
-                            Console.WriteLine($"{whose_move} move:");
-                            Move(pos, whose_move);
-                            i2 = Win();
-                           if (i2 == false)
-                           {
-                            continue;
-                           }
-                            whose_move = "O";
-                            DrawBoard();
-                            Console.WriteLine($"{whose_move} move:");
-                            Move(pos, whose_move);
-                            i2 = Win();
-                        if (i2 == false)
-                        {
-                            continue;
-                        }
-                        whose_move = "X";
-                            DrawBoard();
-                            Console.WriteLine($"{whose_move} move:");
-                            Move(pos, whose_move);
-                            i2 = Win();
+
+                switch (move)
+                {
+                    case "1":
+                        Console.Clear();
+                        Console.WriteLine("New Game");
+
+                        string whose_move = "X";
+                        Console.WriteLine("Welcome to tic-tac-toe!");
+                        DrawBoard();
+                        Console.WriteLine($"{whose_move} move:");
+                        Move(pos, whose_move);
+                        i2 = Win();
                         if (i2 == false)
                         {
                             continue;
                         }
                         whose_move = "O";
-                            DrawBoard();
-                            Console.WriteLine($"{whose_move} move:");
-                            Move(pos, whose_move);
-                            i2 = Win();
+                        DrawBoard();
+                        Console.WriteLine($"{whose_move} move:");
+                        Move(pos, whose_move);
+                        i2 = Win();
                         if (i2 == false)
                         {
                             continue;
                         }
                         whose_move = "X";
-                            DrawBoard();
-                            Console.WriteLine($"{whose_move} move:");
-                            Move(pos, whose_move);
-                            i2 = Win();
+                        DrawBoard();
+                        Console.WriteLine($"{whose_move} move:");
+                        Move(pos, whose_move);
+                        i2 = Win();
                         if (i2 == false)
                         {
                             continue;
                         }
                         whose_move = "O";
-                            DrawBoard();
-                            Console.WriteLine($"{whose_move} move:");
-                            Move(pos, whose_move);
-                            i2 = Win();
+                        DrawBoard();
+                        Console.WriteLine($"{whose_move} move:");
+                        Move(pos, whose_move);
+                        i2 = Win();
                         if (i2 == false)
                         {
                             continue;
                         }
                         whose_move = "X";
-                            DrawBoard();
-                            Console.WriteLine($"{whose_move} move:");
-                            Move(pos, whose_move);
-                            i2 = Win();
+                        DrawBoard();
+                        Console.WriteLine($"{whose_move} move:");
+                        Move(pos, whose_move);
+                        i2 = Win();
                         if (i2 == false)
                         {
                             continue;
                         }
                         whose_move = "O";
-                            DrawBoard();
-                            Console.WriteLine($"{whose_move} move:");
-                            Move(pos, whose_move);
-                            i2 = Win();
+                        DrawBoard();
+                        Console.WriteLine($"{whose_move} move:");
+                        Move(pos, whose_move);
+                        i2 = Win();
                         if (i2 == false)
                         {
                             continue;
                         }
                         whose_move = "X";
-                            DrawBoard();
-                            Console.WriteLine($"{whose_move} move:");
-                            Move(pos, whose_move);
-                            i2 = Win();
+                        DrawBoard();
+                        Console.WriteLine($"{whose_move} move:");
+                        Move(pos, whose_move);
+                        i2 = Win();
+                        if (i2 == false)
+                        {
+                            continue;
+                        }
+                        whose_move = "O";
+                        DrawBoard();
+                        Console.WriteLine($"{whose_move} move:");
+                        Move(pos, whose_move);
+                        i2 = Win();
+                        if (i2 == false)
+                        {
+                            continue;
+                        }
+                        whose_move = "X";
+                        DrawBoard();
+                        Console.WriteLine($"{whose_move} move:");
+                        Move(pos, whose_move);
+                        i2 = Win();
                         if (i2 == false)
                         {
                             continue;
                         }
                         whose_move = "O";
 
-                            Console.WriteLine("Game Over!");
-                            Console.ReadLine();
-                            Console.ReadLine();
-                            Console.ReadLine();
-                            continue;
-                        case "2":
+                        Console.WriteLine("Game Over!");
+                        Console.ReadLine();
+                        Console.ReadLine();
+                        Console.ReadLine();
+                        continue;
+                    case "2":
+                        Console.Clear();
+                        Console.WriteLine("Имя-Кирилл\nФамилия-Чеботарев\nВозраст-12 лет\nПитомцы-Кошка Мусяка\nЛюбимое дело -программирование и спорт \nЯзык программирования-С#");
+                        Console.ReadLine();
+                        continue;
+                    case "3":
+                        Console.WriteLine("Вы уверены ? Да/Нет");
+                        string agree = Console.ReadLine();
+                        if (agree == "Нет")
+                        {
                             Console.Clear();
-                            Console.WriteLine("Имя-Кирилл\nФамилия-Чеботарев\nВозраст-12 лет\nПитомцы-Кошка Мусяка\nЛюбимое дело -программирование и спорт \nЯзык программирования-С#");
-                            Console.ReadLine();
                             continue;
-                        case "3":
-                            Console.WriteLine("Вы уверены ? Да/Нет");
-                            string agree = Console.ReadLine();
-                            if (agree == "Нет")
-                            {
-                                Console.Clear();
-                                continue;
-                            }
-                            else
-                            {
-                                Console.Clear();
-                                i = false;
-                            }
-                            break;
+                        }
+                        else
+                        {
+                            Console.Clear();
+                            i = false;
+                        }
+                        break;
 
-                    }
-                
-               
+                }
+
+
             }
-           
+
         }
         static bool Win()
         {
@@ -153,10 +154,10 @@ namespace Доска_для_крестиков_ноликов
             }
             return i;
         }
-        
-        static bool OWin() 
+
+        static bool OWin()
         {
-            if (pos[1] == "O" && pos[2] == "O" && pos[3] == "O") 
+            if (pos[1] == "O" && pos[2] == "O" && pos[3] == "O")
             {
                 return true;
             }
