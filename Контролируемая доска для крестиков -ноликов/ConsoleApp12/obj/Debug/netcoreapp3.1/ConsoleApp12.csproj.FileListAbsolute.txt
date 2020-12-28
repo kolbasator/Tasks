@@ -1,0 +1,38 @@
+C:\Users\777\Desktop\первый лвл\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.exe
+C:\Users\777\Desktop\первый лвл\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.deps.json
+C:\Users\777\Desktop\первый лвл\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.runtimeconfig.json
+C:\Users\777\Desktop\первый лвл\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.runtimeconfig.dev.json
+C:\Users\777\Desktop\первый лвл\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.dll
+C:\Users\777\Desktop\первый лвл\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.pdb
+C:\Users\777\Desktop\первый лвл\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.AssemblyInfoInputs.cache
+C:\Users\777\Desktop\первый лвл\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.AssemblyInfo.cs
+C:\Users\777\Desktop\первый лвл\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.csproj.CoreCompileInputs.cache
+C:\Users\777\Desktop\первый лвл\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.dll
+C:\Users\777\Desktop\первый лвл\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.pdb
+C:\Users\777\Desktop\первый лвл\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.genruntimeconfig.cache
+C:\Users\777\Desktop\первый лвл\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.csprojAssemblyReference.cache
+C:\Users\777\Desktop\Задания от разумовского\первый лвл\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.AssemblyInfoInputs.cache
+C:\Users\777\Desktop\Задания от разумовского\первый лвл\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.AssemblyInfo.cs
+C:\Users\777\Desktop\Задания от разумовского\первый лвл\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.csproj.CoreCompileInputs.cache
+C:\Users\777\Desktop\Задания от разумовского\первый лвл\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.dll
+C:\Users\777\Desktop\Задания от разумовского\первый лвл\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.pdb
+C:\Users\777\Desktop\Задания от разумовского\первый лвл\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.exe
+C:\Users\777\Desktop\Задания от разумовского\первый лвл\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.deps.json
+C:\Users\777\Desktop\Задания от разумовского\первый лвл\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.runtimeconfig.json
+C:\Users\777\Desktop\Задания от разумовского\первый лвл\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.runtimeconfig.dev.json
+C:\Users\777\Desktop\Задания от разумовского\первый лвл\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.dll
+C:\Users\777\Desktop\Задания от разумовского\первый лвл\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.pdb
+C:\Users\777\Desktop\Задания от разумовского\первый лвл\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.genruntimeconfig.cache
+C:\Users\777\Desktop\Задания от разумовского\первый лвл\Контролируемая доска для крестиков -ноликов\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.exe
+C:\Users\777\Desktop\Задания от разумовского\первый лвл\Контролируемая доска для крестиков -ноликов\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.deps.json
+C:\Users\777\Desktop\Задания от разумовского\первый лвл\Контролируемая доска для крестиков -ноликов\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.runtimeconfig.json
+C:\Users\777\Desktop\Задания от разумовского\первый лвл\Контролируемая доска для крестиков -ноликов\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.runtimeconfig.dev.json
+C:\Users\777\Desktop\Задания от разумовского\первый лвл\Контролируемая доска для крестиков -ноликов\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.dll
+C:\Users\777\Desktop\Задания от разумовского\первый лвл\Контролируемая доска для крестиков -ноликов\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.pdb
+C:\Users\777\Desktop\Задания от разумовского\первый лвл\Контролируемая доска для крестиков -ноликов\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.csprojAssemblyReference.cache
+C:\Users\777\Desktop\Задания от разумовского\первый лвл\Контролируемая доска для крестиков -ноликов\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.AssemblyInfoInputs.cache
+C:\Users\777\Desktop\Задания от разумовского\первый лвл\Контролируемая доска для крестиков -ноликов\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.AssemblyInfo.cs
+C:\Users\777\Desktop\Задания от разумовского\первый лвл\Контролируемая доска для крестиков -ноликов\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.csproj.CoreCompileInputs.cache
+C:\Users\777\Desktop\Задания от разумовского\первый лвл\Контролируемая доска для крестиков -ноликов\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.dll
+C:\Users\777\Desktop\Задания от разумовского\первый лвл\Контролируемая доска для крестиков -ноликов\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.pdb
+C:\Users\777\Desktop\Задания от разумовского\первый лвл\Контролируемая доска для крестиков -ноликов\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.genruntimeconfig.cache
