@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Простейший калькулятор/1.0.0": {
+        "runtime": {
+          "Простейший калькулятор.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Простейший калькулятор/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
