@@ -35,6 +35,16 @@
 - Отформатируй код во всех файлах (Ctrl + K + D в Visual Studio)
 - Установи Git For Windows
 - Прочитай как нужно коммитить в удаленный репозиторий, не используй интерфейс браузера.
+- Ознакомся с коммандами гита:
+  - `git init`
+  - `git add .`
+  - `git commit -m "commit message"`
+  - `git push`
+  - `git push -u origin <branch name>`
+  - `git remote add origin <url>`
+  - `git remote remove origin`
+  - `git checkout <branch name>`
+  - `git checkout -b <branch name>`
 
 У тебя неделя, или пойдешь учить сишарп, ой тоесть славянскую культуру в Школе Разработчика Полянина.
 
