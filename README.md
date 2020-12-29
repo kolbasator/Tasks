@@ -4,25 +4,24 @@
 
 - Используй код стайл при объявлении переменных. 
   - Используй Pascal Case для:
-    - Свойств, например ```cs public string FirstName {get;set;}```
-    - Статических переменных, например ```cs public static string FirstName;```
-    - Констант, например ```cs public const string FirstName;```
-    - Методов, например ```cs public void PrintName(string name) { }```
-    - Названий класса, например ```cs public class Person { }```
+    - Свойств, например `public string FirstName {get;set;}`
+    - Статических переменных, например `public static string FirstName;`
+    - Констант, например `public const string FirstName;`
+    - Методов, например `public void PrintName(string name) { }`
+    - Названий класса, например `public class Person { }`
 
   - Используй Camel Case для:
-    - Параметров метода, например ```cs public void PrintName(string firstName) { }```
-    - Локальных переменных, ```cs public void PrintName(string firstName) { var localVariable = "name"; Write(localVariable); }```
-    - Приватные поля классов называй ```cs private readonly _firstName;```, начиная с нижнего подчеркивания _
+    - Параметров метода, например `public void PrintName(string firstName) { }`
+    - Локальных переменных, `public void PrintName(string firstName) { var localVariable = "name"; Write(localVariable); }`
+    - Приватные поля классов называй `private readonly _firstName;`, начиная с нижнего подчеркивания _
 
-Никогда не используй snake_case при объявлении переменных, НЕ делай так: ```cs var my_first_name = "Kirill";```
+Никогда не используй snake_case при объявлении переменных, НЕ делай так: `var my_first_name = "Kirill";`
   
-- Пиши проверку ЕСЛИ сокращенно, тоесть, не пиши ```cs if(isGreater == true) { }``` вместо этого пиши так 
-```cs if(isGreater) { }```. Тоже самое с ```cs while```, ```cs switch```.
+- Пиши проверку ЕСЛИ сокращенно, тоесть, не пиши `if(isGreater == true) { }` вместо этого пиши так `if(isGreater) { }`. Тоже самое с `while`, `switch`.
 - Перепиши задачу "Прямоугольник", там пустой проект.
 - Перепиши задачу "Не пустая доска для крестиков ноликов" -- она пустая, вообще-то.
 - Не используй русские название при создании проекта, класса и т.д. Не все программы поддерживают русскую кодировку. Пиши название решений и проектов на английском.
-- В сишарпе принято держать каждый ```cs class``` или ```cs struct``` выносить в отдельный файл.
+- В сишарпе принято держать каждый `Class` или `Structure` выносить в отдельный файл.
 - Прими за правило форматировать код, хоткей Ctrl + K + D в Visual Studio.
 
 ## Задачи
@@ -33,8 +32,8 @@
 - Переименуй все переменные во всех проектах, согласно заметкам. см выше.
 - Во всех проектах, повыноси Классы и Структуры в отдельные файлы.
 - Поставь себе JetBrains Rider и используй его как главную IDE, так ты научишься не говно-кодить.
-- Отформатируй код во всех файлах (Ctrl + K + D в Visual Studio).
-- Установи Git For Windows.
+- Отформатируй код во всех файлах (Ctrl + K + D в Visual Studio)
+- Установи Git For Windows
 - Прочитай как нужно коммитить в удаленный репозиторий, не используй интерфейс браузера.
 
 У тебя неделя, или пойдешь учить сишарп, ой тоесть славянскую культуру в Школе Разработчика Полянина.
