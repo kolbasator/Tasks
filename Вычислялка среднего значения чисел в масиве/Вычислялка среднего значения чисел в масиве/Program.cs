@@ -9,6 +9,7 @@ namespace Вычислялка_среднего_значения_чисел_в_�
             Console.WriteLine("How many numbers:");
             string value = Console.ReadLine();
             double[] array= new double[Convert.ToInt32(value)];
+            
             Console.WriteLine("put your numbers:");
             for(int j = 0; j < array.Length; j++)
             {
