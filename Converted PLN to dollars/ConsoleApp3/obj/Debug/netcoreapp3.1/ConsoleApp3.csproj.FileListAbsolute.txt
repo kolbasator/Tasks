@@ -1,0 +1,26 @@
+C:\Users\777\Desktop\первый лвл\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.exe
+C:\Users\777\Desktop\первый лвл\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.deps.json
+C:\Users\777\Desktop\первый лвл\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.runtimeconfig.json
+C:\Users\777\Desktop\первый лвл\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.runtimeconfig.dev.json
+C:\Users\777\Desktop\первый лвл\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.dll
+C:\Users\777\Desktop\первый лвл\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.pdb
+C:\Users\777\Desktop\первый лвл\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\777\Desktop\первый лвл\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\777\Desktop\первый лвл\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfo.cs
+C:\Users\777\Desktop\первый лвл\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\777\Desktop\первый лвл\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.dll
+C:\Users\777\Desktop\первый лвл\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.pdb
+C:\Users\777\Desktop\первый лвл\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.genruntimeconfig.cache
+C:\Users\777\Desktop\Задания от разумовского\Первый лвл\Converted PLN to dollars\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.exe
+C:\Users\777\Desktop\Задания от разумовского\Первый лвл\Converted PLN to dollars\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.deps.json
+C:\Users\777\Desktop\Задания от разумовского\Первый лвл\Converted PLN to dollars\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.runtimeconfig.json
+C:\Users\777\Desktop\Задания от разумовского\Первый лвл\Converted PLN to dollars\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.runtimeconfig.dev.json
+C:\Users\777\Desktop\Задания от разумовского\Первый лвл\Converted PLN to dollars\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.dll
+C:\Users\777\Desktop\Задания от разумовского\Первый лвл\Converted PLN to dollars\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.pdb
+C:\Users\777\Desktop\Задания от разумовского\Первый лвл\Converted PLN to dollars\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\777\Desktop\Задания от разумовского\Первый лвл\Converted PLN to dollars\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\777\Desktop\Задания от разумовского\Первый лвл\Converted PLN to dollars\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfo.cs
+C:\Users\777\Desktop\Задания от разумовского\Первый лвл\Converted PLN to dollars\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\777\Desktop\Задания от разумовского\Первый лвл\Converted PLN to dollars\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.dll
+C:\Users\777\Desktop\Задания от разумовского\Первый лвл\Converted PLN to dollars\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.pdb
+C:\Users\777\Desktop\Задания от разумовского\Первый лвл\Converted PLN to dollars\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.genruntimeconfig.cache
