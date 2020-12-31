@@ -1,0 +1,25 @@
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Решение примера\Решение примера\bin\Debug\netcoreapp3.1\Решение примера.exe
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Решение примера\Решение примера\bin\Debug\netcoreapp3.1\Решение примера.deps.json
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Решение примера\Решение примера\bin\Debug\netcoreapp3.1\Решение примера.runtimeconfig.json
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Решение примера\Решение примера\bin\Debug\netcoreapp3.1\Решение примера.runtimeconfig.dev.json
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Решение примера\Решение примера\bin\Debug\netcoreapp3.1\Решение примера.dll
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Решение примера\Решение примера\bin\Debug\netcoreapp3.1\Решение примера.pdb
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Решение примера\Решение примера\obj\Debug\netcoreapp3.1\Решение примера.AssemblyInfoInputs.cache
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Решение примера\Решение примера\obj\Debug\netcoreapp3.1\Решение примера.AssemblyInfo.cs
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Решение примера\Решение примера\obj\Debug\netcoreapp3.1\Решение примера.csproj.CoreCompileInputs.cache
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Решение примера\Решение примера\obj\Debug\netcoreapp3.1\Решение примера.dll
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Решение примера\Решение примера\obj\Debug\netcoreapp3.1\Решение примера.pdb
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Решение примера\Решение примера\obj\Debug\netcoreapp3.1\Решение примера.genruntimeconfig.cache
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Equation\Решение примера\bin\Debug\netcoreapp3.1\Решение примера.exe
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Equation\Решение примера\bin\Debug\netcoreapp3.1\Решение примера.deps.json
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Equation\Решение примера\bin\Debug\netcoreapp3.1\Решение примера.runtimeconfig.json
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Equation\Решение примера\bin\Debug\netcoreapp3.1\Решение примера.runtimeconfig.dev.json
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Equation\Решение примера\bin\Debug\netcoreapp3.1\Решение примера.dll
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Equation\Решение примера\bin\Debug\netcoreapp3.1\Решение примера.pdb
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Equation\Решение примера\obj\Debug\netcoreapp3.1\Решение примера.csprojAssemblyReference.cache
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Equation\Решение примера\obj\Debug\netcoreapp3.1\Решение примера.AssemblyInfoInputs.cache
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Equation\Решение примера\obj\Debug\netcoreapp3.1\Решение примера.AssemblyInfo.cs
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Equation\Решение примера\obj\Debug\netcoreapp3.1\Решение примера.csproj.CoreCompileInputs.cache
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Equation\Решение примера\obj\Debug\netcoreapp3.1\Решение примера.dll
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Equation\Решение примера\obj\Debug\netcoreapp3.1\Решение примера.pdb
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Equation\Решение примера\obj\Debug\netcoreapp3.1\Решение примера.genruntimeconfig.cache
