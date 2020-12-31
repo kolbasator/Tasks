@@ -1,0 +1,25 @@
+D:\Задания от разумовского\Шестой лвл\Журнальчик какого то пикарда\Журнальчик какого то пикарда\bin\Debug\netcoreapp3.1\Журнальчик какого то пикарда.exe
+D:\Задания от разумовского\Шестой лвл\Журнальчик какого то пикарда\Журнальчик какого то пикарда\bin\Debug\netcoreapp3.1\Журнальчик какого то пикарда.deps.json
+D:\Задания от разумовского\Шестой лвл\Журнальчик какого то пикарда\Журнальчик какого то пикарда\bin\Debug\netcoreapp3.1\Журнальчик какого то пикарда.runtimeconfig.json
+D:\Задания от разумовского\Шестой лвл\Журнальчик какого то пикарда\Журнальчик какого то пикарда\bin\Debug\netcoreapp3.1\Журнальчик какого то пикарда.runtimeconfig.dev.json
+D:\Задания от разумовского\Шестой лвл\Журнальчик какого то пикарда\Журнальчик какого то пикарда\bin\Debug\netcoreapp3.1\Журнальчик какого то пикарда.dll
+D:\Задания от разумовского\Шестой лвл\Журнальчик какого то пикарда\Журнальчик какого то пикарда\bin\Debug\netcoreapp3.1\Журнальчик какого то пикарда.pdb
+D:\Задания от разумовского\Шестой лвл\Журнальчик какого то пикарда\Журнальчик какого то пикарда\obj\Debug\netcoreapp3.1\Журнальчик какого то пикарда.AssemblyInfoInputs.cache
+D:\Задания от разумовского\Шестой лвл\Журнальчик какого то пикарда\Журнальчик какого то пикарда\obj\Debug\netcoreapp3.1\Журнальчик какого то пикарда.AssemblyInfo.cs
+D:\Задания от разумовского\Шестой лвл\Журнальчик какого то пикарда\Журнальчик какого то пикарда\obj\Debug\netcoreapp3.1\Журнальчик какого то пикарда.csproj.CoreCompileInputs.cache
+D:\Задания от разумовского\Шестой лвл\Журнальчик какого то пикарда\Журнальчик какого то пикарда\obj\Debug\netcoreapp3.1\Журнальчик какого то пикарда.dll
+D:\Задания от разумовского\Шестой лвл\Журнальчик какого то пикарда\Журнальчик какого то пикарда\obj\Debug\netcoreapp3.1\Журнальчик какого то пикарда.pdb
+D:\Задания от разумовского\Шестой лвл\Журнальчик какого то пикарда\Журнальчик какого то пикарда\obj\Debug\netcoreapp3.1\Журнальчик какого то пикарда.genruntimeconfig.cache
+C:\Users\777\Desktop\Задания от разумовского\Шестой лвл\Jean-Luc Picard`s magazine\Журнальчик какого то пикарда\bin\Debug\netcoreapp3.1\Журнальчик какого то пикарда.exe
+C:\Users\777\Desktop\Задания от разумовского\Шестой лвл\Jean-Luc Picard`s magazine\Журнальчик какого то пикарда\bin\Debug\netcoreapp3.1\Журнальчик какого то пикарда.deps.json
+C:\Users\777\Desktop\Задания от разумовского\Шестой лвл\Jean-Luc Picard`s magazine\Журнальчик какого то пикарда\bin\Debug\netcoreapp3.1\Журнальчик какого то пикарда.runtimeconfig.json
+C:\Users\777\Desktop\Задания от разумовского\Шестой лвл\Jean-Luc Picard`s magazine\Журнальчик какого то пикарда\bin\Debug\netcoreapp3.1\Журнальчик какого то пикарда.runtimeconfig.dev.json
+C:\Users\777\Desktop\Задания от разумовского\Шестой лвл\Jean-Luc Picard`s magazine\Журнальчик какого то пикарда\bin\Debug\netcoreapp3.1\Журнальчик какого то пикарда.dll
+C:\Users\777\Desktop\Задания от разумовского\Шестой лвл\Jean-Luc Picard`s magazine\Журнальчик какого то пикарда\bin\Debug\netcoreapp3.1\Журнальчик какого то пикарда.pdb
+C:\Users\777\Desktop\Задания от разумовского\Шестой лвл\Jean-Luc Picard`s magazine\Журнальчик какого то пикарда\obj\Debug\netcoreapp3.1\Журнальчик какого то пикарда.csprojAssemblyReference.cache
+C:\Users\777\Desktop\Задания от разумовского\Шестой лвл\Jean-Luc Picard`s magazine\Журнальчик какого то пикарда\obj\Debug\netcoreapp3.1\Журнальчик какого то пикарда.AssemblyInfoInputs.cache
+C:\Users\777\Desktop\Задания от разумовского\Шестой лвл\Jean-Luc Picard`s magazine\Журнальчик какого то пикарда\obj\Debug\netcoreapp3.1\Журнальчик какого то пикарда.AssemblyInfo.cs
+C:\Users\777\Desktop\Задания от разумовского\Шестой лвл\Jean-Luc Picard`s magazine\Журнальчик какого то пикарда\obj\Debug\netcoreapp3.1\Журнальчик какого то пикарда.csproj.CoreCompileInputs.cache
+C:\Users\777\Desktop\Задания от разумовского\Шестой лвл\Jean-Luc Picard`s magazine\Журнальчик какого то пикарда\obj\Debug\netcoreapp3.1\Журнальчик какого то пикарда.dll
+C:\Users\777\Desktop\Задания от разумовского\Шестой лвл\Jean-Luc Picard`s magazine\Журнальчик какого то пикарда\obj\Debug\netcoreapp3.1\Журнальчик какого то пикарда.pdb
+C:\Users\777\Desktop\Задания от разумовского\Шестой лвл\Jean-Luc Picard`s magazine\Журнальчик какого то пикарда\obj\Debug\netcoreapp3.1\Журнальчик какого то пикарда.genruntimeconfig.cache
