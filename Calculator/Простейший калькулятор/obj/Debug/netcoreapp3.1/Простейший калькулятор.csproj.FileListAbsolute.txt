@@ -1,0 +1,26 @@
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Простейший калькулятор\Простейший калькулятор\bin\Debug\netcoreapp3.1\Простейший калькулятор.exe
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Простейший калькулятор\Простейший калькулятор\bin\Debug\netcoreapp3.1\Простейший калькулятор.deps.json
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Простейший калькулятор\Простейший калькулятор\bin\Debug\netcoreapp3.1\Простейший калькулятор.runtimeconfig.json
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Простейший калькулятор\Простейший калькулятор\bin\Debug\netcoreapp3.1\Простейший калькулятор.runtimeconfig.dev.json
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Простейший калькулятор\Простейший калькулятор\bin\Debug\netcoreapp3.1\Простейший калькулятор.dll
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Простейший калькулятор\Простейший калькулятор\bin\Debug\netcoreapp3.1\Простейший калькулятор.pdb
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Простейший калькулятор\Простейший калькулятор\obj\Debug\netcoreapp3.1\Простейший калькулятор.csprojAssemblyReference.cache
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Простейший калькулятор\Простейший калькулятор\obj\Debug\netcoreapp3.1\Простейший калькулятор.AssemblyInfoInputs.cache
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Простейший калькулятор\Простейший калькулятор\obj\Debug\netcoreapp3.1\Простейший калькулятор.AssemblyInfo.cs
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Простейший калькулятор\Простейший калькулятор\obj\Debug\netcoreapp3.1\Простейший калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Простейший калькулятор\Простейший калькулятор\obj\Debug\netcoreapp3.1\Простейший калькулятор.dll
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Простейший калькулятор\Простейший калькулятор\obj\Debug\netcoreapp3.1\Простейший калькулятор.pdb
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Простейший калькулятор\Простейший калькулятор\obj\Debug\netcoreapp3.1\Простейший калькулятор.genruntimeconfig.cache
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Calculator\Простейший калькулятор\bin\Debug\netcoreapp3.1\Простейший калькулятор.exe
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Calculator\Простейший калькулятор\bin\Debug\netcoreapp3.1\Простейший калькулятор.deps.json
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Calculator\Простейший калькулятор\bin\Debug\netcoreapp3.1\Простейший калькулятор.runtimeconfig.json
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Calculator\Простейший калькулятор\bin\Debug\netcoreapp3.1\Простейший калькулятор.runtimeconfig.dev.json
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Calculator\Простейший калькулятор\bin\Debug\netcoreapp3.1\Простейший калькулятор.dll
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Calculator\Простейший калькулятор\bin\Debug\netcoreapp3.1\Простейший калькулятор.pdb
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Calculator\Простейший калькулятор\obj\Debug\netcoreapp3.1\Простейший калькулятор.csprojAssemblyReference.cache
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Calculator\Простейший калькулятор\obj\Debug\netcoreapp3.1\Простейший калькулятор.AssemblyInfoInputs.cache
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Calculator\Простейший калькулятор\obj\Debug\netcoreapp3.1\Простейший калькулятор.AssemblyInfo.cs
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Calculator\Простейший калькулятор\obj\Debug\netcoreapp3.1\Простейший калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Calculator\Простейший калькулятор\obj\Debug\netcoreapp3.1\Простейший калькулятор.dll
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Calculator\Простейший калькулятор\obj\Debug\netcoreapp3.1\Простейший калькулятор.pdb
+C:\Users\777\Desktop\Задания от разумовского\Второй лвл\Calculator\Простейший калькулятор\obj\Debug\netcoreapp3.1\Простейший калькулятор.genruntimeconfig.cache
