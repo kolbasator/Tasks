@@ -6,6 +6,7 @@ namespace Доска_для_крестиков_ноликов
 {
     static class Game
     {
+
         public static bool Win()
         {
             bool i = true;
