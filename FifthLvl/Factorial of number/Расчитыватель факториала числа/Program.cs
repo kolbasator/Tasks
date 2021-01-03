@@ -13,6 +13,9 @@ namespace Расчитыватель_факториала_числа
             Console.ReadLine();
             Console.ReadLine();
 
+
+
+
         }
         static long Factorial(int number)
         {

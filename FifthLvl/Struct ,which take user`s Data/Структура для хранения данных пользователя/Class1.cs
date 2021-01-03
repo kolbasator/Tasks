@@ -6,13 +6,13 @@ namespace Структура_для_хранения_данных_пользов
 {
     struct User
     {
-        public string Name;
-        public string LastName;
-        public string PhoneNumber;
-        public string Email;
+        public string name;
+        public string lastName;
+        public string phoneNumber;
+        public string email;
         public void DisplayInfo()
         {
-            Console.WriteLine($"Name: {Name}  Lastname: {LastName}\nEmail:{Email}\nPhone number:{PhoneNumber}");
+            Console.WriteLine($"Name: {name}  Lastname: {lastName}\nEmail:{email}\nPhone number:{phoneNumber}");
         }
     }
 }

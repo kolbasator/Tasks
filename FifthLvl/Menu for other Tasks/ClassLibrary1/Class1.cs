@@ -17,8 +17,8 @@ namespace ClassLibrary1
                     case "1":
                         Calculator();
                         Console.WriteLine("Вернуться в меню?Да/Нет");
-                        string Agree = Console.ReadLine();
-                        if (Agree == "Да")
+                        string agree = Console.ReadLine();
+                        if (agree == "Да")
                         {
                             Console.Clear();
                             continue;
@@ -31,8 +31,8 @@ namespace ClassLibrary1
                     case "2":
                         SecondCalculator();
                         Console.WriteLine("Вернуться в меню?Да/Нет");
-                        string Agree2 = Console.ReadLine();
-                        if (Agree2 == "Да")
+                        string agree2 = Console.ReadLine();
+                        if (agree2 == "Да")
                         {
                             Console.Clear();
                             continue;
@@ -45,8 +45,8 @@ namespace ClassLibrary1
                     case "3":
                         TTTBoard();
                         Console.WriteLine("Вернуться в меню?Да/Нет");
-                        string Agree3 = Console.ReadLine();
-                        if (Agree3 == "Да")
+                        string agree3 = Console.ReadLine();
+                        if (agree3 == "Да")
                         {
                             Console.Clear();
                             continue;
@@ -59,8 +59,8 @@ namespace ClassLibrary1
                     case "4":
                         Triangle();
                         Console.WriteLine("Вернуться в меню?Да/Нет");
-                        string Agree4 = Console.ReadLine();
-                        if (Agree4 == "Да")
+                        string agree4 = Console.ReadLine();
+                        if (agree4 == "Да")
                         {
                             Console.Clear();
                             continue;
@@ -73,8 +73,8 @@ namespace ClassLibrary1
                     case "5":
                         Rectangle();
                         Console.WriteLine("Вернуться в меню?Да/Нет");
-                        string Agree5 = Console.ReadLine();
-                        if (Agree5 == "Да")
+                        string agree5 = Console.ReadLine();
+                        if (agree5 == "Да")
                         {
                             Console.Clear();
                             continue;
@@ -87,8 +87,8 @@ namespace ClassLibrary1
                     case "6":
                         Equation();
                         Console.WriteLine("Вернуться в меню?Да/Нет");
-                        string Agree6 = Console.ReadLine();
-                        if (Agree6 == "Да")
+                        string agree6 = Console.ReadLine();
+                        if (agree6 == "Да")
                         {
                             Console.Clear();
                             continue;
@@ -101,8 +101,8 @@ namespace ClassLibrary1
                     case "7":
                         Pow();
                         Console.WriteLine("Вернуться в меню?Да/Нет");
-                        string Agree7 = Console.ReadLine();
-                        if (Agree7 == "Да")
+                        string agree7 = Console.ReadLine();
+                        if (agree7 == "Да")
                         {
                             Console.Clear();
                             continue;
@@ -115,8 +115,8 @@ namespace ClassLibrary1
                     case "8":
                         EasyCheck();
                         Console.WriteLine("Вернуться в меню?Да/Нет");
-                        string Agree8 = Console.ReadLine();
-                        if (Agree8 == "Да")
+                        string agree8 = Console.ReadLine();
+                        if (agree8 == "Да")
                         {
                             Console.Clear();
                             continue;
@@ -129,8 +129,8 @@ namespace ClassLibrary1
                     case "9":
                         ParityCheck();
                         Console.WriteLine("Вернуться в меню?Да/Нет");
-                        string Agree9 = Console.ReadLine();
-                        if (Agree9 == "Да")
+                        string agree9 = Console.ReadLine();
+                        if (agree9 == "Да")
                         {
                             Console.Clear();
                             continue;
@@ -143,8 +143,8 @@ namespace ClassLibrary1
                     case "10":
                         ThreeNumbersSort();
                         Console.WriteLine("Вернуться в меню?Да/Нет");
-                        string Agree10 = Console.ReadLine();
-                        if (Agree10 == "Да")
+                        string agree10 = Console.ReadLine();
+                        if (agree10 == "Да")
                         {
                             Console.Clear();
                             continue;
@@ -176,12 +176,12 @@ namespace ClassLibrary1
             array[0] = Convert.ToInt32(a);
             array[1] = Convert.ToInt32(b);
             array[2] = Convert.ToInt32(c);
-            Sortirovshik(array);
+            Sort(array);
             Console.WriteLine("Спасибо за пользование нашей программой !Удачи!");
             Console.ReadLine();
             Console.ReadLine();
         }
-        static int[] Sortirovshik(int[] arr)
+        static int[] Sort(int[] arr)
         {
             int temp;
             for (int i = 0; i < arr.Length; i++)
@@ -203,12 +203,10 @@ namespace ClassLibrary1
         static void Equation()
         {
             Console.WriteLine("Эта программа решит вам пример типа а*б/а+б.Введите а:");
-            string a = Console.ReadLine();
+            double a = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Введите б :");
-            string b = Console.ReadLine();
-            double a_number = Convert.ToDouble(a);
-            double b_number = Convert.ToDouble(b);
-            double result = Math.Round(Counter(a_number, b_number), 4);
+            double b = Convert.ToDouble(Console.ReadLine());
+            double result = Math.Round(Counter(a, b), 4);
             Console.WriteLine(result);
             Console.ReadLine();
 
@@ -220,40 +218,45 @@ namespace ClassLibrary1
         }
         public static void SecondCalculator()
         {
-            x:
-            Console.WriteLine("Данный калькулятор выполняет простейшие математические действия (+, -, *, /) над двумя цифрами");
-            Console.WriteLine("Введите цифру");
-            string a_string = Console.ReadLine();
-            Console.WriteLine("Введите вторую цифру");
-            string b_string = Console.ReadLine();
-            Console.WriteLine("Введите операциюs (+, -, *, /)");
-            string symbol_string = Console.ReadLine();
-            char symbol = Convert.ToChar(symbol_string);
-            double a = Convert.ToDouble(a_string);
-            double b = Convert.ToDouble(b_string);
-            switch (symbol)
+            bool i = true;
+            while (i)
             {
-                case '+':
-                    Console.WriteLine(a + b);
-                    break;
-                case '-':
-                    Console.WriteLine(a - b);
-                    break;
-                case '*':
-                    Console.WriteLine(a * b);
-                    break;
-                case '/':
-                    Console.WriteLine(a / b);
-                    break;
+                Console.WriteLine("Данный калькулятор выполняет простейшие математические действия (+, -, *, /) над двумя цифрами");
+                Console.WriteLine("Введите цифру");
+                double a = Convert.ToDouble(Console.ReadLine());
+                Console.WriteLine("Введите вторую цифру");
+                double b = Convert.ToDouble(Console.ReadLine());
+                Console.WriteLine("Введите операциюs (+, -, *, /)");
+                char symbol = Convert.ToChar(Console.ReadLine());
+                switch (symbol)
+                {
+                    case '+':
+                        Console.WriteLine(a + b);
+                        break;
+                    case '-':
+                        Console.WriteLine(a - b);
+                        break;
+                    case '*':
+                        Console.WriteLine(a * b);
+                        break;
+                    case '/':
+                        Console.WriteLine(a / b);
+                        break;
+                }
+                Console.WriteLine("Хотите использовать калькулятор еще раз ?Да/Нет");
+                string choose = Console.ReadLine();
+                if (choose == "Да")
+                {
+                    continue;
+                }
+                else
+                {
+                    i = false;
+                }
+                Console.ReadLine();
+                Console.ReadLine();
             }
-            Console.WriteLine("Хотите использовать калькулятор еще раз ?Да/Нет");
-            string choose = Console.ReadLine();
-            if (choose == "Да")
-            {
-                goto x;
-            }
-            Console.ReadLine();
-            Console.ReadLine();
+
         }
         public static void Rectangle()
         {

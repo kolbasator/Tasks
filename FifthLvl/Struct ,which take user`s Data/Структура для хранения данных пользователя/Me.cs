@@ -6,9 +6,9 @@ namespace Структура_для_хранения_данных_пользов
 {
     struct Me
     {
-        public string Name;
-        public string LastName;
-        public string PhoneNumber;
-        public string Email;
+        public string name;
+        public string lastName;
+        public string phoneNumber;
+        public string email;
     }
 }
